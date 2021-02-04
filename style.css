@@ -1,0 +1,14 @@
+/* Styling body tag*/
+body{
+	background-color: lightblue;
+}
+/* Styling the container */
+.containercolor{
+	background-color: white;
+	border-radius: 25px;
+}
+/* Styling the section*/
+.sectionmargin{
+	margin: 40px;
+	
+}
